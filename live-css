@@ -1,0 +1,11 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+
+ Title : Character Trades Wufoo CSS
+ Author : Character Trades 
+ URL : http://www.CharacterTrades.com
+
+ Last Updated : 2021-05-11
+
+- - - - - - - - - - - - - - - - - - - - - */
+
+.wufoo .info {display: none;}
