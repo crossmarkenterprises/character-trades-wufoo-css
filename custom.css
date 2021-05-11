@@ -10,6 +10,19 @@
 
 
 .wufoo .info, .wufoo .paging-context {
-    border-bottom: 1px dotted #CCCCCC;
     display: none;
     }
+
+.buttons input{
+    background-color: #c24729;
+    color: #fff;
+	font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+	border-radius: 3px;
+    border: 0px;
+    padding: 13px 26px;
+}
