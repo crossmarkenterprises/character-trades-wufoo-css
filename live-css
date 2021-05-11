@@ -8,4 +8,8 @@
 
 - - - - - - - - - - - - - - - - - - - - - */
 
-.wufoo .info {display: none;}
+
+.wufoo .info, .wufoo .paging-context {
+    border-bottom: 1px dotted #CCCCCC;
+    display: none;
+    }
